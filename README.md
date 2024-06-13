@@ -31,7 +31,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deployed on Vercel
 
--try it here:counterapp-yeahssh.vercel.app
+-try it here: https://counterapp-yeahssh.vercel.app/
+
 
 
 
